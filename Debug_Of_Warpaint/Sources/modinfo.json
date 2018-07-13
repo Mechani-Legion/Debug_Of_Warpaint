@@ -1,0 +1,16 @@
+{
+	"name": "Debug_Of_Warpaint",
+	"description": "This mod fixes the missing warpaint on several part of the body.\n\nMod ID: 1404775905\n\nCompatibility:\n- Good\n- Solo/coop and server compliant.\n\nHow to use: Simply need to have the mod in the \"Selected Mods\" list (set in \"Mods\" of the main menu).",
+	"changeNote": "",
+	"author": "Mechani aka Legion",
+	"authorUrl": "https://github.com/Mechani-Legion/",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1404775905",
+	"steamVisibility": 0,
+	"folderName": "Debug_Of_Warpaint",
+	"revisionNumber": 103818,
+	"snapshotId": 18696
+}
