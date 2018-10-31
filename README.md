@@ -1,7 +1,7 @@
-# Debug_Of_Warpaint
+# Debug_Of_Warpaint [deprecated]
 Mod for Conan Exiles
 
-This mod fixes the missing warpaint on several part of the body.
+This mod was fixing the missing warpaint on several part of the body until update 34.
 
 Mod ID: 1404775905
 
